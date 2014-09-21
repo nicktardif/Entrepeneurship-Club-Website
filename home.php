@@ -12,59 +12,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 	</head>
 	<body>
-		<!-- header_top -->
-		<div class="header_top">
-			<div class="wrap">
-				<div class="header">
-		
-					<div class="logo">
-						<a href="home.html"><img src="images/logo.png" alt="Entrepreneurship Club"/> </a>
-					</div>
-					<div class="title-sponsors" >
-					<!--
-					<img src="images/title sponsor.png" alt="Title Sponsor"/> -->
-					
-					</div>
-		
-					<div class="clear"></div>
-				</div>
-			</div>
-		</div>
-		<!-- header_btm -->
-		<div class="header_btm">
-			<div class="wrap">
-				<div class="header">
-					<div class="menu">
-						<ul>
-		   					<li class="active"><a href="home.html">Home</a></li>
-		   					<li><a href="about.html">About</a></li>
-		   					<li><a href="event history.html">Events History</a></li>
-		   					<li><a href="startup database.html">Startup Database</a></li>
-		   					<li><a href="gallery.html">Gallery</a></li>
-		   					<li><a href="contact.html">Contact</a></li>
-		 				</ul>
-					</div>
-					<div class="social-icons">
-			     		<ul>
-			        		<li><a href="https://www.twitter.com/TEC_UF" target="_blank"></a></li>
-			        		<li><a href="https://www.facebook.com/eClubUF" target="_blank"></a></li>
-						</ul>
-					</div>
-					<div class="clear"></div>
-				</div>
-			</div>
-		</div>
-		<!-- start slider -->
-		<div class="slider_bg">
-			<div class="wrap">
-			</div>
-		</div>
-		<!-- start main  -->
-		<div class="wrap">
-			<div class="blog_slider">
-				<h2>Entrepreneurship Club</h2>
-				<p>Think. Innovate. Succeed.</p>
-			</div>
+		<!-- Start Header -->
+		<?php include('header.php'); ?>
+
 		<div class="main">
 			<!-- start content_left  -->
 			<div class="content_left">
@@ -166,25 +116,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</div>
 				
-				<!-- start sidebar -->
-				<div class="sidebar">
-					<div class="sidebar_txt">
-						<h2>Sponsors</h2>
-						<ul class="blog_list">
-							<li class="right"><a href="http://www.gainnet.org"><img src="images/gainnet.jpg" alt=""/> </a></li>
-							<li class="right"><a href="http://www.tutoringzone.com"><img src="images/tutoringzone.jpg" alt=""/> </a></li>
-							<div class="clear"></div>
-						</ul>
-					</div>
-					<div class="sidebar_txt">
-						<h2>Twitter Feeds</h2>
-						<a class="twitter-timeline" href="https://twitter.com/TEC_UF" data-widget-id="477504275614932993">Tweets by @TEC_UF</a>
-						<script>
-							!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-						</script>
-					</div>
-				</div>
-				<div class="clear"></div>
+				<!-- Start Sidebar -->
+				<?php include('sidebar.php'); ?>
+
 			</div>
 		</div>		
 		<!-- start footer  -->
