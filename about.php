@@ -20,7 +20,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="content_left">
 				<div class="blog_main">
 					<!-- start Event's window list  -->
-					<h2 class="blog">About</h2>
+					<h1 class="blog">About</h1>
 						<div align="justify">
 							
 							<p><br></p>
@@ -72,7 +72,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<p class="para top">Amazing weekly speaker series & workshops, monthly socials & networking events, TEC Startup Walk touring downtown Gainesville’s favorite startup spaces & meeting the founders, Startup Weekend Gainesville and Startup Weekend trips to Jacksonville, Orlando, Tampa, local hackathon, South Eastern Entrepreneurship Conference. We even mentored high school students for Young Entrepreneurs Council (YEC) at CIED!  </p>
 							<p class="para top">AND WE ARE SUPER EXCITED ABOUT THE COMING YEAR! <br/>
 							 'Join the network! Gain the experience!'</p>
-							<p class="para top">Entrepreneurship Club at UF meets every Monday at 6:30 PM in Hough 240. </p>
+							<p class="para top">Entrepreneurship Club at UF meets every Monday at 6:15 PM in Stuzin 200. </p>
 							<p class="para top"><font style="font-weight:bold;font-style:italic">Parent Organization: </font><font style="font-style:italic" >Gator Connect </font></p>
 							
 						</div>
@@ -85,19 +85,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 			</div>
 		</div>
-		<!-- start footer  -->
-		<div class="footer_bg">
-			<div class="wrap">
-				<div class="footer">
-					<div class="clear"></div>
-		
-					<div class="footer_top">
-						<p class="link">
-							<span>© All rights reserved | Template by&nbsp; <a href="http://w3layouts.com/"> W3Layouts</a></span>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
+
+		<!-- start Footer  -->
+		<?php include('footer.php'); ?>
+
 	</body>
 </html>

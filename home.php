@@ -19,6 +19,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<!-- start content_left  -->
 			<div class="content_left">
 				<div class="blog_main">
+					<h1 class="blog">E-Club Events</h1>
+					<p><br/></p>
+
 					<!-- Start eClub Schedule -->
 					<?php 
 						$schedule_type = 'upcoming';
@@ -28,7 +31,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 				</div>
 				<div class="blog_main1">
-					<h2 class="blog">Other Events</h2>
+					<h1 class="blog">Other Events</h1>
 
 					<!-- Start local Schedule -->
 					<?php 
@@ -95,19 +98,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 			</div>
 		</div>		
-		<!-- start footer  -->
-		<div class="footer_bg">
-			<div class="wrap">
-				<div class="footer">
-					<div class="clear"></div>
-		
-					<div class="footer_top">
-						<p class="link">
-							<span>© All rights reserved | Template by&nbsp; <a href="http://w3layouts.com/"> W3Layouts</a></span>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
+
+		<!-- start Footer  -->
+		<?php include('footer.php'); ?>
+
 	</body>
 </html>

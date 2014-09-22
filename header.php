@@ -6,6 +6,10 @@
 			<div class="logo">
 				<a href="home.html"><img src="images/logo.png" alt="Entrepreneurship Club"/> </a>
 			</div>
+			<div class="blog_slider">
+				<h2>Entrepreneurship Club</h2>
+				<p>Think. Innovate. Succeed.</p>
+			</div>
 			<div class="title-sponsors" >
 			<!--
 			<img src="images/title sponsor.png" alt="Title Sponsor"/> -->
@@ -27,6 +31,7 @@
 					<li><a href="event history.php">Events History</a></li>
 					<li><a href="startup database.php">Startup Database</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
+					<li><a href="eboard.php">E-board</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</div>
@@ -47,7 +52,3 @@
 </div>
 <!-- start main  -->
 <div class="wrap">
-	<div class="blog_slider">
-		<h2>Entrepreneurship Club</h2>
-		<p>Think. Innovate. Succeed.</p>
-	</div>

@@ -20,12 +20,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="content_left">
 				<div class="blog_main">
 					<!-- start Event's window list  -->
-					<h2 class="blog">Startup Database</h2>
+					<h1 class="blog">Startup Database</h1>
 					<p><br/></p>
-					<div>
-						<img src="images/coming-soon.jpg">
-						<div class="clear"></div>
-					</div>
+
+					<!-- Startups List -->
+					<?php include('startups.php'); ?>
+					
 				</div>
 					
 				
@@ -36,19 +36,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 			</div>
 		</div>
-		<!-- start footer  -->
-		<div class="footer_bg">
-			<div class="wrap">
-				<div class="footer">
-					<div class="clear"></div>
-		
-					<div class="footer_top">
-						<p class="link">
-							<span>© All rights reserved | Template by&nbsp; <a href="http://w3layouts.com/"> W3Layouts</a></span>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
+
+		<!-- start Footer  -->
+		<?php include('footer.php'); ?>
+
 	</body>
 </html>

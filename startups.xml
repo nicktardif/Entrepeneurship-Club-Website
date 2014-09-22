@@ -319,9 +319,8 @@
 		<phone></phone> 
 		<address></address> 
 		<website></website> 
-		<facebook></facebook> 
-		<twitter>No Facebook</twitter>
-		No Twitter
+		<facebook>No Facebook</facebook> 
+		<twitter>No Twitter</twitter>
 	</company>
 	<company>
 		<name>IngagePatient Inc.</name>
@@ -730,9 +729,8 @@
 		<phone></phone> 
 		<address></address> 
 		<website></website> 
-		<facebook></facebook> 
-		<twitter>No Facebook</twitter>
-		No Twitter
+		<facebook>No Facebook</facebook> 
+		<twitter>No Twitter</twitter>
 	</company>
 	<company>
 		<name>The Daily Hundred, Inc.</name>

@@ -31,7 +31,7 @@ img{max-width:100%;}
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 100%;
-	background: url('../images/main_bg.png');
+	background-color: #ccc;
 }
 .wrap{
 	margin:0 auto;
@@ -546,9 +546,7 @@ body {
 	height: 84px;
 }
 .blog_slider{
-	background: url('../images/blog.jpg');
-	padding: 4% 3% 8%;
-	margin-top: -4%;
+	float: right;
 }
 .content_left{
 	float:left;
@@ -608,6 +606,28 @@ p.para.top{
 .blog_date {
 	margin-bottom: 4%;
 }
+.startup_left_col{
+	float:left;
+	width: 100%;
+}
+.startup_left_col h2{
+	font-size: 1em;
+	color:#000000;	
+	display: inline-block;
+	float:left;
+	width: 20%;
+}
+.startup_left_col a,.startup_left_col p, .startup_left_col span{
+	color: #EA5A4B;
+	line-height: 1.8em;
+	font-size: 0.825em;
+	display: inline-block;
+	float: left;
+}
+.startup_left_col a{
+	text-decoration: underline;
+}
+
 .blog_date_left{
 	float:left;
 	width: 25%;
@@ -943,14 +963,33 @@ p.para.top{
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
+.eboard_name {
+	font-size: 1.5em;
+}
+.eboard_picture {
+	float: left;
+	margin-right: 5%;
+}
+.eboard_info {
+	width: 80%;
+	float: right;
+}
+.eboard_info h2{
+	font-size: 1em;
+	color: #EA5A4B;
+	display: inline-block;
+	float:left;
+	width: 20%;
+}
+.eboard_info p, .eboard_info span{
+	color:#000000;	
+	width: 80%;
+	line-height: 1.8em;
+	font-size: 0.825em;
+	display: inline-block;
+	float: left;
+}
+h1.blog {
+	font-size: 2.0em;
+	text-decoration: underline;
+}
