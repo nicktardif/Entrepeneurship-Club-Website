@@ -610,21 +610,25 @@ p.para.top{
 }
 .blog_date_left{
 	float:left;
-	width: 18.333333%;
-	margin-right: 4%;
+	width: 25%;
+	margin-right: 5%;
 }
 .blog_date_right{
 	float:left;
-	width: 76.333333%
+	width: 70%
 }
 .blog_date_left h2{
 	font-size: 1em;
 	color:#000000;	
+	display: inline-block;
+	float:left;
 }
-.blog_date_left p{
+.blog_date_left p, .blog_date_left span{
 	color: #EA5A4B;
 	line-height: 1.8em;
 	font-size: 0.825em;
+	display: inline-block;
+	float: right;
 }
 .blog_date_left p a{
 	color: #EA5A4B;
