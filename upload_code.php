@@ -7,13 +7,14 @@
 		{
 			//now is the time to modify the future file name and validate the file
 			$new_file_name = $_POST['list'];
-			echo $new_file_name;
-			echo '<br>';
 
 			$upload_dir = 'xml/';
+			$new_file = $upload_dir.$new_file_name;
+			echo $new_file;
+			echo '<br>';
 			if(is_writable($upload_dir)) {
 				//move it to where we want it to be
-				if(move_uploaded_file($_FILES['file']['tmp_name'], 'uploads/'.$new_file_name))
+				if(move_uploaded_file($_FILES['file']['tmp_name'], $upload_dir.$new_file_name))
 					$message = 'Congratulations!  Your file was accepted.';
 				else
 					$message = 'Your file was not moved correctly.';
