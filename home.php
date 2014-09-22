@@ -45,7 +45,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				
 				<!-- start News   -->
 			
-				<!--
 				<div class="blog_main">
 					<h2 class="blog">NEWS</h2>
 					
@@ -90,7 +89,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="clear"></div>							
 						</div>
 					</div>
-					-->
 				</div>
 				
 				<!-- Start Sidebar -->
