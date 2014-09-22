@@ -1,5 +1,5 @@
 <?php
-	$schedule_xml_file = 'eboard.xml';	
+	$schedule_xml_file = 'xml/eboard.xml';	
 	$members = simplexml_load_file($schedule_xml_file);
 
 	foreach ($members->member as $member) {

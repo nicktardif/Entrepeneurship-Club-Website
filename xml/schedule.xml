@@ -1,6 +1,51 @@
 <?xml version='1.0'?>
 <list>
 	<event>
+		<title>2 ABC Shark Tank Contestants</title>
+		<date>Sept 02, 2014</date>
+		<time>6:15 pm - 7:30 pm</time>
+		<location>Hough 150</location>
+		<info>2 ABC Shark Tank Contestants Byron Young (Founder of CordRoy Bean Bag) and Danny Mastronardo (Founder of NardosNatural)</info>
+		<type>eclub</type>
+	</event>
+	<event>
+		<title>Business Plan Workshop</title>
+		<date>Sept 08, 2014</date>
+		<time>6:15 pm - 7:30 pm</time>
+		<location>Stuzin 200</location>
+		<info>Business Plan Workshop &amp; Intro to $40,000 Business Plan Competition with Academic Director of CEI</info>
+		<type>eclub</type>
+	</event>
+	<event>
+		<title>Student Organization Fair</title>
+		<date>Sept 10, 2014</date>
+		<time>11:00 am - 2:00 pm</time>
+		<location>Reitz Union North Lawn</location>
+		<info>Student Organization Fair	</info>
+		<type>local</type>
+	</event>
+	<event>
+		<title>Business Bash</title>
+		<date>Sept 11, 2014</date>
+		<time>5:00 pm - 7:00 pm</time>
+		<info>Business Bash</info>
+		<type>local</type>
+	</event>
+	<event>
+		<title>Scott Zimmerman - Real Estate Entrepeneur</title>
+		<date>Sept 15, 2014</date>
+		<time>6:15 pm - 7:30 pm</time>
+		<location>Stuzin 200</location>
+		<info>Scott Zimmerman- Real Estate Entrepeneur with Portfolio of over 7,000 properties</info>
+		<type>eclub</type>
+	</event>
+	<event>
+		<title>Experiental Classroom</title>
+		<date>Sept 18, 2014</date>
+		<info>Experiential Classroom with CEI &amp; Jeff Stamp (Creator of Baked Lays)  FACULTY ONLY-but seeking student volunteers (might be good learning opportunity)</info>
+		<type>local</type>
+	</event>
+	<event>
 		<title>Sid Martin Bio Tech Panel</title>
 		<date>Sept 22, 2014</date>
 		<time>6:15 pm - 7:30 pm</time>
@@ -30,7 +75,6 @@
 		<info>SOCIAL: Mini Shark Tank Tournament</info>
 		<type>eclub</type>
 	</event>
-	<!--
 	<event>
 		<title>Pete Zimek Presents</title>
 		<date>Oct 13, 2014</date>
@@ -65,7 +109,7 @@
 	</event>
 	<event>
 		<title>CEO Conference</title>
-		<date>Oct 30 - Nov 1, 2014</date>
+		<date>Oct 30, 2014</date>
 		<location>Orlando</location>
 		<info>CEO Conference</info>
 		<type>local</type>
@@ -88,7 +132,7 @@
 	</event>
 	<event>
 		<title>Startup Weekend</title>
-		<date>Nov 14-16, 2014</date>
+		<date>Nov 14, 2014</date>
 		<location>Starter Space</location>
 		<info>Startup Weekend Julian Miller (Point Man of Startup Weekend)	</info>
 		<type>local</type>
@@ -133,5 +177,4 @@
 		<info>Surprise End of Semester Event</info>
 		<type>eclub</type>
 	</event>
-	-->
 </list>

@@ -1,5 +1,5 @@
 <?php
-	$xml_file = 'startups.xml';	
+	$xml_file = 'xml/startups.xml';	
 	$startups = simplexml_load_file($xml_file);
 
 	foreach ($startups->company as $company) {
