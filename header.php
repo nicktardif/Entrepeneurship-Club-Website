@@ -28,6 +28,7 @@
 				<ul>
 					<li class="active"><a href="home.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
+					<li><a href="sponsors.php">Sponsors</a></li>
 					<li><a href="event history.php">Events History</a></li>
 					<li><a href="startup database.php">Startup Database</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
