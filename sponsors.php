@@ -21,8 +21,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="blog_main">
 					<div align="justify">
 							<br />
-							<div>
-								<img style="background-color:black;padding:5px" src="http://www.straightnorth.com/profiles/sndev_install/themes/sndev/img/logo-sn-main-02.png">
+							<div align="middle">
+								<img style="background-color:black;padding:15px;" src="http://www.straightnorth.com/profiles/sndev_install/themes/sndev/img/logo-sn-main-02.png" width="50%">
 							</div>
 							<p><br></p>
 							<p class="para">Straight North is a full-service Internet marketing agency serving growth-minded, middle-market firms. We help you increase the quantity and quality of your online leads, or increase e-commerce revenue, by applying industry best practices and our own proven techniques to every campaign, whether SEO, PPC, display advertising, email marketing, social media, or a combination. With over 60 marketing professionals on staff, we have the breadth and depth of talent to manage complex, multi-front campaigns with aggressive goals.</p>

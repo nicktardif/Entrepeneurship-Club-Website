@@ -3,6 +3,7 @@
 	<div class="sidebar_txt">
 		<h2>Sponsors</h2>
 		<ul class="blog_list">
+			<li class="right"><a href="http://www.straightnorth.com"><img style="background-color:black;padding:5px;" src="http://www.straightnorth.com/profiles/sndev_install/themes/sndev/img/logo-sn-main-02.png" alt=""/> </a></li>
 			<li class="right"><a href="http://www.gainnet.org"><img src="images/gainnet.jpg" alt=""/> </a></li>
 			<li class="right"><a href="http://www.tutoringzone.com"><img src="images/tutoringzone.jpg" alt=""/> </a></li>
 			<div class="clear"></div>
