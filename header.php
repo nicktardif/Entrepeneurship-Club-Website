@@ -4,7 +4,7 @@
 		<div class="header">
 
 			<div class="logo">
-				<a href="home.php"><img src="images/logo.png" alt="Entrepreneurship Club"/> </a>
+				<a href="index.php"><img src="images/logo.png" alt="Entrepreneurship Club"/> </a>
 			</div>
 			<div class="blog_slider">
 				<h2>Entrepreneurship Club</h2>
