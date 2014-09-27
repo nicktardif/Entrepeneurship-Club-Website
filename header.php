@@ -4,7 +4,7 @@
 		<div class="header">
 
 			<div class="logo">
-				<a href="home.html"><img src="images/logo.png" alt="Entrepreneurship Club"/> </a>
+				<a href="home.php"><img src="images/logo.png" alt="Entrepreneurship Club"/> </a>
 			</div>
 			<div class="blog_slider">
 				<h2>Entrepreneurship Club</h2>
@@ -26,14 +26,14 @@
 		<div class="header">
 			<div class="menu">
 				<ul>
-					<li class="active"><a href="home.php">Home</a></li>
-					<li><a href="about.php">About</a></li>
-					<li><a href="sponsors.php">Sponsors</a></li>
-					<li><a href="event history.php">Events History</a></li>
-					<li><a href="startup database.php">Startup Database</a></li>
-					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="eboard.php">E-board</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li id="home"><a class="dynamicLoad" href="home.php">Home</a></li>
+					<li><a class="dynamicLoad" href="about.php">About</a></li>
+					<li><a class="dynamicLoad" href="event_history.php">Events History</a></li>
+					<li><a class="dynamicLoad" href="startup_database.php">Startup Database</a></li>
+					<li><a class="dynamicLoad" href="gallery.php">Gallery</a></li>
+					<li><a class="dynamicLoad" href="eboard.php">E-board</a></li>
+					<li><a class="dynamicLoad" href="contact.php">Contact</a></li>
+					<li><a class="dynamicLoad" href="sponsors.php">Sponsors</a></li>
 				</ul>
 			</div>
 			<div class="social-icons">

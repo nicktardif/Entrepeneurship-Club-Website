@@ -1,7 +1,3 @@
-<!--A Design  by Gaurav, Karan and Neha
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -10,38 +6,26 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+		<!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+		<!-- <link href="css/bootstrap-theme.min.css" rel="stylesheet"> -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<!-- <script type="text/javascript" src="js/bootstrap.min.js"></script> -->
+		<script type="text/javascript" src="js/start.js"></script>
+			
 	</head>
-	<body>
+	<body onLoad="showHome()">
 		<!-- Start Header -->
 		<?php include('header.php'); ?>
-
 		<div class="main">
 			<!-- start content_left  -->
-			<div class="content_left">
-				<div class="blog_main">
-					<h1 class="blog">E-Club Events</h1>
-					<p><br/></p>
-					<?php 
-						$schedule_type = 'past';
-						$type = 'eclub';
-						include('schedule.php'); 
-					?>
-				<div class="blog_main1">
-					<h1 class="blog">Local Events</h1>
-					<p><br/></p>
-					<?php 
-						$schedule_type = 'past';
-						$type = 'local';
-						include('schedule.php'); 
-					?>
-				</div>
-				</div>
+			<div id="content" class="content_left">
 			</div>
-
+				
 			<!-- Start Sidebar -->
 			<?php include('sidebar.php'); ?>
-		</div>
 
+		</div>
+		
 		<!-- start Footer  -->
 		<?php include('footer.php'); ?>
 
