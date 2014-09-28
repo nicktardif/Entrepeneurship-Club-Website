@@ -47,7 +47,7 @@
 				}
 				if($company->website != '' and $company->website != 'No Website') {
 					echo '<h2>Website: </h2>';
-					echo '<a href='.$company->website.'>'.$company->website.'</a>';
+					echo '<a href="'.$company->website.'">'.$company->website.'</a>';
 					echo '<div class="clear"></div>';
 				}
 				if($company->facebook != '' and $company->facebook != 'No Facebook') {
