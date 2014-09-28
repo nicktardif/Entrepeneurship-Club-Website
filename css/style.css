@@ -993,3 +993,37 @@ h1.blog {
 	font-size: 2.0em;
 	text-decoration: underline;
 }
+
+li.dropdown div ul li a{
+	display: block;
+	padding: 5px 10px;
+	color: #333;
+	background: #ccc;
+	text-decoration: none;
+}
+
+li.dropdown div ul li a:hover{
+	color:#fff;
+	background: #939393;
+}
+
+li.dropdown div{
+	display: none;
+}
+
+li:hover.dropdown div{
+	display: block;
+	position: absolute;
+	z-index: 10;
+	border-bottom: 1px black solid;
+	border-top: 1px black solid;
+	border-right: 2px black solid;
+	border-left: 2px black solid;
+}
+li:hover.dropdown div ul li{
+	clear: left;
+	display: block;
+	width: 100%;
+	border-top: 1px black solid;
+	border-bottom: 1px black solid;
+}

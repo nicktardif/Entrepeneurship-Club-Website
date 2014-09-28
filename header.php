@@ -30,10 +30,19 @@
 					<li><a class="dynamicLoad" href="about.php">About</a></li>
 					<li><a class="dynamicLoad" href="event_history.php">Events History</a></li>
 					<li><a class="dynamicLoad" href="startup_database.php">Startup Database</a></li>
-					<li><a class="dynamicLoad" href="gallery.php">Gallery</a></li>
+					<!--<li><a class="dynamicLoad" href="gallery.php">Gallery</a></li> -->
 					<li><a class="dynamicLoad" href="eboard.php">E-board</a></li>
+					<li class="dropdown" >
+						<a href="#">Sponsors</a>
+						<div>
+							<ul>
+								<li class="dropdownitem"><a class="dynamicLoad" href="sponsor_sn.php">StraightNorth</a></li>
+								<li class="dropdownitem"><a class="dynamicLoad" href="sponsor_tz.php">Tutoring Zone</a></li>
+								<li class="dropdownitem"><a class="dynamicLoad" href="sponsor_gn.php">GAINnet</a></li>
+							</ul>
+						</div>
+					</li>
 					<li><a class="dynamicLoad" href="contact.php">Contact</a></li>
-					<li><a class="dynamicLoad" href="sponsors.php">Sponsors</a></li>
 				</ul>
 			</div>
 			<div class="social-icons">
