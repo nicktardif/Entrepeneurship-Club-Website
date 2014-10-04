@@ -36,7 +36,6 @@
 						<a href="#">Sponsors</a>
 						<div>
 							<ul>
-								<li class="dropdownitem"><a class="dynamicLoad" href="sponsor_sn.php">Straight North</a></li>
 								<li class="dropdownitem"><a class="dynamicLoad" href="sponsor_tz.php">Tutoring Zone</a></li>
 								<li class="dropdownitem"><a class="dynamicLoad" href="sponsor_gn.php">GAINnet</a></li>
 							</ul>
