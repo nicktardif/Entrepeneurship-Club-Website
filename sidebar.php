@@ -3,8 +3,10 @@
 	<div class="sidebar_txt">
 		<h2>Sponsors</h2>
 		<ul class="blog_list">
+
 			<li class="right"><a href="http://www.gainnet.org"><img src="images/gainnet.jpg" alt=""/> </a></li>
 			<li class="right"><a href="http://www.tutoringzone.com"><img src="images/tutoringzone.jpg" alt=""/> </a></li>
+			<li id="swamprentals_sidebar"><a href="http://www.swamprentals.com/" title="Swamp Rentals | Gainesville Apartments" target="_blank">Swamp Rentals | Gainesville Apartments</a></li>
 			<div class="clear"></div>
 		</ul>
 	</div>

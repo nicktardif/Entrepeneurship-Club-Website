@@ -1,8 +1,4 @@
 
+
 RewriteOptions inherit
-
-RewriteEngine on
-
-RewriteCond %{HTTP_HOST} ^.*$
-RewriteRule ^index\.html$ "http\:\/\/www\.eclubuf\.com\/home\.html" [R=301,L]
 

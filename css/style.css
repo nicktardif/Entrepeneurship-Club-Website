@@ -1027,3 +1027,10 @@ li:hover.dropdown div ul li{
 	border-top: 1px black solid;
 	border-bottom: 1px black solid;
 }
+
+#swamprentals_sidebar a:link, #swamprentals_sidebar a:visited{
+	color: blue;
+	text-decoration: underline;
+	text-align: center;
+	font-size: 120%;
+}
