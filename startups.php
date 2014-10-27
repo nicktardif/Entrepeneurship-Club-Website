@@ -47,17 +47,17 @@
 				}
 				if($company->website != '' and $company->website != 'No Website') {
 					echo '<h2>Website: </h2>';
-					echo '<a href="'.$company->website.'">'.$company->website.'</a>';
+					echo '<a target="_blank" href="'.$company->website.'">'.$company->website.'</a>';
 					echo '<div class="clear"></div>';
 				}
 				if($company->facebook != '' and $company->facebook != 'No Facebook') {
 					echo '<h2>Facebook: </h2>';
-					echo '<a href='.$company->facebook.'>'.$company->facebook.'</a>';
+					echo '<a target="_blank"href='.$company->facebook.'>'.$company->facebook.'</a>';
 					echo '<div class="clear"></div>';
 				}
 				if($company->twitter != '' and $company->twitter != 'No Twitter') {
 					echo '<h2>Twitter: </h2>';
-					echo '<a href='.$company->twitter.'>'.$company->twitter.'</a>';
+					echo '<a target="_blank"href='.$company->twitter.'>'.$company->twitter.'</a>';
 					echo '<div class="clear"></div>';
 				}
 			echo '</div>';

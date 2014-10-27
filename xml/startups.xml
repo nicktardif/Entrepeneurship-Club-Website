@@ -30,16 +30,6 @@
 		<twitter>No Twitter</twitter>
 	</company>
 	<company>
-		<name>Burnin' Rubber</name>
-		<contact>Andrew Birkett</contact>
-		<email>andrew@burninrubbercards.com</email>
-		<phone>(407) 222-7814</phone>
-		<address></address> 
-		<website>http://www.burninrubbercards.com/</website>
-		<facebook></facebook> 
-		<twitter>https://twitter.com/burninrubbertcg</twitter>
-	</company>
-	<company>
 		<name>Cinema Verde</name>
 		<contact>Trish Riley, Director</contact>
 		<email>trish@cinemaverde.org</email>
@@ -65,7 +55,7 @@
 		<email>Akinsey2@gmail.com</email>
 		<phone>(352)363-5070</phone>
 		<address>1214 SW 16th Avenue Suite D, Gainesville, FL 32601</address>
-		<website>commnsense.info</website>
+		<website>http://www.commnsense.info</website>
 		<facebook>No Facebook</facebook>
 		<twitter>No Twitter</twitter>
 	</company>
@@ -75,7 +65,7 @@
 		<email>david.meadows@oqulus.net</email>
 		<phone>(817)228-3152</phone>
 		<address>747 SW 2nd Avenue, Suite 348, IMB #20, Gainesville, FL 32601</address>
-		<website>www.oqulus.net</website>
+		<website>http://www.oqulus.net</website>
 		<facebook>No Facebook</facebook>
 		<twitter>https://twitter.com/OqulusInc</twitter>
 	</company>
@@ -281,6 +271,16 @@
 		<website>http://haulbox.com</website>
 		<facebook>No Facebook</facebook>
 		<twitter>No Twitter</twitter>
+	</company>
+	<company>
+		<name>Holeshot Heroes</name>
+		<contact>Andrew Birkett</contact>
+		<email>andrew@holeshotheroes.com</email>
+		<phone>(407) 222-7814</phone>
+		<address></address> 
+		<website>http://www.holeshotheroes.com/</website>
+		<facebook>http://www.facebook.com/holeshotheroes</facebook> 
+		<twitter>https://twitter.com/holeshotheroes</twitter>
 	</company>
 	<company>
 		<name>Hopping 4 A Cure, Inc.</name>

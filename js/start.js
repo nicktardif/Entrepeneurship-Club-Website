@@ -15,5 +15,5 @@ $( document ).ready( function() {
 
 function showHome() {
 	$("#home").addClass("active");
-	$('#content').load( 'home.php' );		
+	$('#content').load( 'home2.php' );		
 }

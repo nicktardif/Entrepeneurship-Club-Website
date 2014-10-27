@@ -41,7 +41,6 @@
 							</ul>
 						</div>
 					</li>
-					<li><a class="dynamicLoad" href="contact.php">Contact</a></li>
 				</ul>
 			</div>
 			<div class="social-icons">
