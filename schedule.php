@@ -7,7 +7,7 @@
 		$date = DateTime::createFromFormat('M d, Y', $dateString);
 		$today = new DateTime();
 
-		if($schedule_type == 'upcoming' and $event->type == $type and $date >= $today and $date->sub(new DateInterval('P21D')) < $today) {
+		if($schedule_type == 'upcoming' and $event->type == $type and $date >= $today and $date->sub(new DateInterval('P50D')) < $today) {
 			echo '<div class="blog_date">';
 
 				echo '<h2 class="blog">'.$event->title.'</h2>';
@@ -36,7 +36,7 @@
 			echo '</div>';
 
 		}
-		if($schedule_type == 'past' and $event->type == $type and $date < $today and $date->add(new DateInterval('P21D')) >= $today) {
+		if($schedule_type == 'past' and $event->type == $type and $date < $today and $date->add(new DateInterval('P50D')) >= $today) {
 			echo '<div class="blog_date">';
 
 				echo '<h2 class="blog">'.$event->title.'</h2>';

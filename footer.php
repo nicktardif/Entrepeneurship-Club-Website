@@ -5,7 +5,7 @@
 
 			<div class="footer_top">
 				<p class="link">
-					<span>Contact us at <a href="mailto:gatorcreators@gmail.com">GatorCreators@gmail.com</a></span>
+					<span>Contact us at <a href="mailto:eClubUF@gmail.com">eClubUF@gmail.com</a></span>
 				</p>
 			</div>
 		</div>

@@ -1,18 +1,18 @@
 <list>
     <member>
         <name>Erick Rodriguez</name>
-        <role>President</role>
+        <role>Co-President</role>
         <phone>828-738-6765</phone>
         <email>erick4rodriguez@gmail.com</email>
-        <bio>“Erick is a junior studying business management &amp; information systems; whose hobbies involve cooking, traveling, and being what he calls a gym rat. His background involves becoming an Eagle Scout at the age of 13, being a University Co-Instructor lecturing a semester long 2.5 hour class called Warrington Welcome, being hand selected to compete in StartupBus North America one of the most intense entrepreneurship competitions in the US where you pitch in front of gurus like Guy Kawasaki and the CTO of Marc Cuban. More recently he attended Undergraduate symposiums at University of Pennsylvania, and Google’s Mountain View headquarters; but his true entrepreneurial background comes from ecommerce where he has done a little over 6 figures in revenue."</bio>
+        <bio>Erick is a junior studying business management &amp; information systems. His hobbies involve cooking, traveling, and being a “gym rat”. He became Eagle Scout at 13, was a UF Co-Instructor, was hand selected to compete in StartupBus North America (one of the most intense entrepreneurship competitions in North America); and will be doing an internship with Google this summer.</bio>
         <pic>images/erick.jpg</pic>
     </member>
     <member>
         <name>David Nassau</name>
-        <role>President</role>
+        <role>Co-President</role>
         <phone>954-643-4447</phone>
         <email>David@mshopscotch.org</email>
-        <bio>“David was eClub president over the summer; he runs a non profit called “Hopping 4 a Cure” where he’s raised over $30,000 for multiple sclerosis by hosting hopscotch tournaments, was an Entrepreneurship Instructor at the Cade Museum and is currently he’s taking it easy interning for Disney World.”</bio>
+        <bio>David is founder and president of a non-profit called Hopping 4 a Cure where he’s raised over $35,000 for Multiple Sclerosis by hosting hopscotch tournaments. David was an entrepreneurship instructor at the CadeMuseum last semester; just recently returned from a Disney internship in Orlando; and is a part time triathlete.</bio>
         <pic>images/david.jpg</pic>
     </member>
     <member>
@@ -20,96 +20,104 @@
         <role>Executive Vice President</role>
         <phone>352-871-6023</phone>
         <email>aniruddhravindran@gmail.com</email>
-        <bio>“Aniruddh is doing his masters in Biomedical Engineering, and is on the verge of publishing two papers after a year of comprehensive research. In the past he’s played soccer for the Indian National team, has raised loads of money for noble causes in his undergraduate years, and is currently part of two startup companies; one of which placed 2nd in Startup Weekend Gainesville last year. Moreover, Aniruddh here similar to Giovanni placed top 16 in the $40,000 bus plan competition among 147 original team members. And when he’s not doing all of this he’s salsa dancing”</bio>
+        <bio>Aniruddh is doing his masters in Biomedical Engineering, and is on the verge of publishing two papers. He used to play soccer for the India National team, has raised large sums of money for non-profits in his undergrad years; and is currently a part of two startups. And when he’s not doing all of the above you can find him salsa dancing in the evenings.</bio>
         <pic>images/ani.jpg</pic>
     </member>
     <member>
-        <name>Kevin Prescott</name>
-        <role>Director of Marketing</role>
-        <phone>703-314-2695</phone>
-        <email>kpres27@gmail.com</email>
-        <bio>“Kevin is a junior at the University of Florida, double majoring in both Business Management and Telecommunication Production. Currently he is the Director of Marketing and is also the Chief Video Man for CRU. One day Kevin desires to open his own restaurant while doing production on the side. During his free time, Kevin loves to play Assassins Creed and watch lacrosse.</bio>
-        <pic>images/kevin.jpg</pic>
-    </member>
-    <member>
-        <name>Jerry Declasse</name>
-        <role>Director of Marketing</role>
-        <phone>813-361-9810</phone>
-        <email>jerrydeclasse@gmail.com</email>
-        <bio>Jerry Declasse is a third year Business/Psych double major and is also in the Innovation Academy program. He is very involved in the Gainesville entrepreneurial community and has worked with companies such as Feathr, FreshSpark, as well as many companies in incubators such as StarterSpace and The Innovation Hub. As a digital marketing specialist, Jerry has built online presences and product launches that have reached millions of people. He is also a big fan of fedoras.</bio>
-        <pic>images/jerry.jpg</pic>
-    </member>
-    <member>
-        <name>Karin Ulloa</name>
-        <role>Director of Marketing</role>
-        <phone>813-418-2835</phone>
-        <email>karinulloa@hotmail.com</email>
-        <bio>“Karin is a junior marketing major with a minor in accounting and entrepreneurship from Lima, Peru. Upon graduating she would like to be a marketing consultant, recently she has studied in Beijing, China. Interned with Aramark; and been involved with numerous organizations such as Adopted Gators, and Navigators International”</bio>
-        <pic>images/karin.jpg</pic>
-    </member>
-    <member>
         <name>Giovanni Crimi</name>
-        <role>VP of University Outreach</role>
+        <role>Vice President of Events</role>
         <phone>954-439-6922</phone>
         <email>giocrimi@yahoo.com</email>
-        <bio>“Gio is studying finance and info systems, is a brother in Delta Sigma Pi; and recently placed top 16 in the $40,000 UF Big Idea Bus. Plan Competition for his startup App that utilizes augmented reality and trading cards; which forced him to become a self taught learner of SQL, PHP, HTML, and CSS”</bio>
-        <pic>images/gio.jpg</pic>
+        <bio>Giovanni is studying finance and information systems, and is a brother in Delta Sigma Pi (a professional business fraternity). Last year, Giovanni placed top 16 in UF’s $40,000 Big Idea business plan competition for his startup app that utilizes augmented reality and trading cards; resulting in him becoming a self taught learner of SQL, PHP, HTML, and CSS.</bio>
+        <pic>images/giov.jpg</pic>
     </member>
     <member>
         <name>James Ziv</name>
-        <role>Innovation Academy Ambassador</role>
+        <role>Vice President of Outreach</role>
         <phone>786-351-7118</phone>
         <email>Ajsfinance@aol.com</email>
-        <bio>“James is a sophomore Innovation Academy student majoring in Finance with a minor in Philosophy. James recently was a tenant at the local incubator the Center for Innovation &amp; Economic Development working on a mobile carpooling app. He’s been involved in the Servant Leadership program, has been a finalist in the Enactus Ethics Case competition and has served as Finance director of the Student Investment Club where he manages a clientele of local sponsors”</bio>
+        <bio>James is a sophomore Innovation Academy student majoring in Finance with a minor in Philosophy. He was a tenant at a local incubator (Center for Innovation &amp; Economic Development) where he was working on an app to revolutionize the carpooling industry. More recently he was a finalist in the Enactus Ethics Case competition, and on the side James serves as Director of Finance for Student Investment Club.</bio>
         <pic>images/james.jpg</pic>
     </member>
     <member>
-        <name>Andrew Birkett</name>
-        <role>VP of Industry Outreach</role>
-        <phone>407-222-7814</phone>
-        <email>Andrew.r.birkett@gmail.com</email>
-        <bio>“Andrew loves cars, and has a 1979 Camaro Z28, his hobbies involve photography; and currently he’s working on creating a line of trading cards for sports cars”</bio>
-        <pic>images/andrew.jpg</pic>
+        <name>James Cherry</name>
+        <role>Vice President of Marketing</role>
+        <phone>904-562-9159</phone>
+        <email>jamescherry93@gmail.com</email>
+        <bio>James is a 3rd year Mathematics Major with interests in anthropology, biology and literature. He’s president of American Marketing Association while simultaneously maintaining involvement in Accent’s Speaker's Bureau, Action SG, Leadership Development Cabinet, Student Government Finance, Gator Innovators, and UF Housing. Moreover, James currently works as Director of Marketing at the Gainesville-based mobile app startup Bafit LLC and is a College Marketing Representative for Ubisoft.</bio>
+        <pic>images/cherry.jpg</pic>
     </member>
     <member>
-        <name>Dylan Schreiner</name>
-        <role>Secretary</role>
-        <phone>904-655-2613</phone>
-        <email>dylanschreiner1@gmail.com</email>
-        <bio>“Dylan loves traveling and entrepreneurship. Growing up he lived all across the country, moving frequently. He’s visited four continents and his goal is to visit all 7. His goal is to conquer public speaking and is part of a local toastmaster club. Currently he’s interning for Onminox Publishing, and interactive textbook publisher in the Innovation Hub”</bio>
-        <pic>images/dylan.jpg</pic>
+        <name>Vera Toncheva</name>
+        <role>Events Director</role>
+        <phone>352-219-1158</phone>
+        <email>vtoncheva@ufl.edu</email>
+        <bio>Vera is currently a Masters in Entrepreneurship Student. She has always been involved in student-run NGOs and is proud to have served at the executive board of ABLE – the Association of Bulgarian Leaders and Entrepreneurs. Currently, she is working on a startup and is prospecting additional entrepreneurial opportunities. Aside from that, she loves art, dance, photography and her biggest passion is traveling.</bio>
+        <pic>images/vera.jpg</pic>
     </member>
     <member>
-        <name>Jason Hong</name>
-        <role>VP of Finance/Fundraising</role>
-        <phone>904-403-0221</phone>
-        <email>jasonarigatou@ufl.edu</email>
-        <bio>“Jason is a senior Finance major with accounting and entrepreneurship minors. Last semester he did a study abroad in London while simultaneously doing an internship; his hobbies involve cooking, and working with sculptures”</bio>
-        <pic>images/jason.jpg</pic>
+        <name>Maria Vargas</name>
+        <role>Events Director</role>
+        <phone>352-278-7319</phone>
+        <email>iavargas@ufl.edu</email>
+        <bio>Maria is a freshmen Business Admin and IA student. In 2012 she co-founded Mind Your Own Business (MYOB) to promote entrepreneurship. MYOB has placed 1st in state competitions, as well as 2nd in international competitions. Maria is currently a sales associate at Cymplify, and a student assistant in the UF Social Entrepreneurship Initiative and Fellowship program. Maria loves being involved with the community and bringing people together to do positive things.</bio>
+        <pic>images/maria.jpg</pic>
     </member>
     <member>
         <name>Nick Tardif</name>
-        <role>VP of Technology</role>
+        <role>Technology Director</role>
         <phone>727-580-5971</phone>
-        <email>nicktardif@gmail.com</email>
-        <bio>“Nick loves to program and is heavily involved with UF’s Software Development community. Last year he worked with the Gainesville based startup Neuronet Learning, where he developed an educational motion tracking game for children. More recently he interned with Amazon in Seattle, developing features for the Kindle and in his spare time he enjoys hammocks, traveling, camping, and hiking”</bio>
+        <email>ntardif@ufl.edu</email>
+        <bio>Nick loves to program and is heavily involved with UF’s Software Development community. Last year he developed an educational motion tracking game for NeuroNet Learning and also interned for Amazon working on Kindle software. Now he is the lead developer at peerfit, a flexible gym class membership company. In his spare time he enjoys hammocks, traveling, camping, and hiking.</bio>
         <pic>images/nick.jpg</pic>
     </member>
     <member>
-        <name>Piyush Gupta</name>
-        <role>VP of Technology</role>
-        <phone>510-456-8990</phone>
-        <email>gupta.piyush@live.com</email>
-        <bio>"Piyush is graduate student in computer engineering. He was working with amazon for the summer. He has been working on mobile apps and frameworks for last 3-4 years. He is working on two startups operating in India (MealsNmore and Kouponize). In his spare time he loves travelling, hiking, reading, playing volley ball and solving puzzles."</bio>
-        <pic>images/piyush.jpg</pic>
+        <name>Andrew Birkett</name>
+        <role>Photographer</role>
+        <phone>407-222-7814</phone>
+        <email>Andrew.r.birkett@gmail.com</email>
+        <bio>Andrew is a sophomore currently working on two startups; a photography business and a trading card line involving sports cars. Andrew owns a 1979 Camaro Z28, and LOVES cars (talk “cars” to him and he’ll talk your ear off). In his free time he enjoys going to car shows, while practicing photography.</bio>
+        <pic>images/andrew.jpg</pic>
     </member>
     <member>
-        <name>Jenel Schwind</name>
-        <role>VP of Social</role>
-        <phone>941-539-6511</phone>
-        <email>jschwind@ufl.edu</email>
-        <bio>“Jenel is an active piano player and has been playing for 11 years now, she loves math and considers herself a life time member of Mu Alpha Thera. More recently she has been learning website development, excel, and other software’s; currently she is a host and administrative assistant at Bonefish grille.”</bio>
-        <pic>images/jenel.jpg</pic>
+        <name>Tyler McGrath</name>
+        <role>University Outreach Director</role>
+        <phone>561-628-2285</phone>
+        <email>tylerm9914@yahoo.com</email>
+        <bio>Tyler is a freshmen Management major minoring in entrepreneurship. His hobbies involve running, fishing, and overall consuming the “fresh air” of the outdoors. This past summer he worked with his Father’s startup company installing IT systems; and he hopes to help his father grow the business through his experiences with school and Entrepreneurship Club. Moreover, he is currently interning for a moving company in Gainesville.</bio>
+        <pic>images/tyler.jpg</pic>
+    </member>
+    <member>
+        <name>Chuck Call</name>
+        <role>Industry Outreach Director</role>
+        <phone>863-370-5352</phone>
+        <email>ccall@ufl.edu</email>
+        <bio>Chuck is a returning student completing his Bachelor's Degree in Business Administration. Like other conventional students he studies full time. He is a husband and father of 3.  He relocated his family to Gainesville 6 months ago to finish his degree at UF. Chuck plans to graduate with a new career in place, and he thinks Entrepreneurship Club will provide a unique and well rounded experience, to “kick-off” his new career trajectory.</bio>
+        <pic>images/chuck.jpg</pic>
+    </member>
+    <member>
+        <name>Clint Ferguson</name>
+        <role>Recruitment Director</role>
+        <phone>561-634-0502</phone>
+        <email>clintdferguson@ufl.edu</email>
+        <bio>Clint has a robust passion for startups; he has worked for several companies including having interned for SeaWorld. He took 2nd in 2013 Startup Weekend, as well as top 16 in the 2013 Big Idea Competition. Clint also runs a successful YouTube channel with 15,000 subscribers, with his most watched video having received over 100,000 views. Clint is president of Minecraft club; and is currently working on installing a fountain show at the Reitz. </bio>
+        <pic>images/clint.jpg</pic>
+    </member>
+    <member>
+        <name>Rachael Tonietto</name>
+        <role>Online Promotions Director</role>
+        <phone>954-376-9009</phone>
+        <email>rachaeltonietto@ufl.edu</email>
+        <bio>Rachael is currently a marketing major minoring in entrepreneurship and retail. She enjoys running, drawing and overall staying active. She is alumna of Women of Tomorrow and plans to pay it forward in the future serving as a mentor for the program to help the next generation of women reach their goals. Rachael has been involved in a nationwide fundraiser for homeless teenagers for 2 years now; and hopes to make a similar impact in Gainesville.</bio>
+        <pic>images/rachael.jpg</pic>
+    </member>
+    <member>
+        <name>Angelinga Ferris</name>
+        <role>Social Director</role>
+        <phone>802-917-1599</phone>
+        <email>angelinaferris@ymail.com</email>
+        <bio>Angelina is 3rd year Finance major. She is currently a teaching assistance for Principles of Entrepreneurship class, as well as a sister in Delta Zeta sorority. Last year she was honorably inducted into the National Association of Professional Women; and in her spare time she enjoys, traveling, reading, and cooking Mediterranean style food.</bio>
+        <pic>images/angelina.jpg</pic>
     </member>
 </list>
 

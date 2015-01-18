@@ -10,10 +10,13 @@
 	?>
 
 </div>
+<!--
 <div class="blog_main1">
 	<h1 class="blog">Other Events</h1>
 
+-->
 	<!-- Start local Schedule -->
+<!--
 	<?php 
 	$schedule_type = 'upcoming';
 	$type = 'local';
@@ -23,7 +26,8 @@
 </div>
 
 
-<!-- start News   -->
+-->
+<!-- start News
 
 <div class="blog_main">
 <h2 class="blog">NEWS</h2>
